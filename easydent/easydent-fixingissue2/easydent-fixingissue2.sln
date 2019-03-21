@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "easydent-fixingissue2", "easydent-fixingissue2\easydent-fixingissue2.vbproj", "{3CD317EA-737B-48EC-855A-2F0966C6248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD317EA-737B-48EC-855A-2F0966C6248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD317EA-737B-48EC-855A-2F0966C6248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD317EA-737B-48EC-855A-2F0966C6248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD317EA-737B-48EC-855A-2F0966C6248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0520D0E-1720-4567-84FA-EC7C616BD927}
+	EndGlobalSection
+EndGlobal

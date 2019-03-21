@@ -1,0 +1,13 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean_insurance_plansalpha.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\bin\Debug\excelclean-insurance-plansalpha.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\bin\Debug\excelclean-insurance-plansalpha.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\bin\Debug\excelclean-insurance-plansalpha.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\bin\Debug\excelclean-insurance-plansalpha.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.vbproj.ResolveComReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean-insurance-plansalpha.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurance-plansalpha\excelclean-insurance-plansalpha\obj\Debug\excelclean_insurance_plansalpha.Form1.resources

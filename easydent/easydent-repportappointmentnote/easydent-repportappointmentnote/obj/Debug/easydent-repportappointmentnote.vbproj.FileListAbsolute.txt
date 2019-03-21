@@ -1,0 +1,13 @@
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\bin\Debug\easydent-repportappointmentnote.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\bin\Debug\easydent-repportappointmentnote.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\bin\Debug\easydent-repportappointmentnote.pdb
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\bin\Debug\easydent-repportappointmentnote.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.vbproj.ResolveComReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent_repportappointmentnote.Form1.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent_repportappointmentnote.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.vbproj.GenerateResource.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.vbproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-repportappointmentnote\easydent-repportappointmentnote\obj\Debug\easydent-repportappointmentnote.pdb

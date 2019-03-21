@@ -1,0 +1,13 @@
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\bin\Debug\pagesToWorksheet.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\bin\Debug\pagesToWorksheet.exe
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\bin\Debug\pagesToWorksheet.pdb
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\bin\Debug\pagesToWorksheet.xml
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.vbproj.ResolveComReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.Form1.resources
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.vbproj.GenerateResource.cache
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.vbproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.exe
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.xml
+c:\users\developer\documents\visual studio 2017\Projects\pagesToWorksheet\pagesToWorksheet\obj\Debug\pagesToWorksheet.pdb

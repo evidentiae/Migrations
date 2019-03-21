@@ -1,0 +1,77 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.CopyComplete
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Dicom.Common.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Dicom.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Drawing.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Png.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Dicom.Scu.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Dicom.Tables.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Forms.DocumentWriters.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Color.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Core.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Effects.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Utilities.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Kernel.Annotations.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.MedicalViewer.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Pdf.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Printer.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ScreenCapture.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Svg.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Twain.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Vector.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Wia.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.WinForms.CommonDialogs.File.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Annotations.Core.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Annotations.Designers.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Annotations.Rendering.WinForms.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Fax.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ColorConversion.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.Form1.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\runExplorerWithSerach.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\PattersonUploadVB\PattersonUploadVB\bin\Debug\LEADTOOLS.LIC
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.Form1.resources
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.Form2.resources
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.Resources.resources
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.GenerateResource.cache
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.exe
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.xml
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUpload.pdb
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\runExplorerWithSerach.exe
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\LEADTOOLS.LIC
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.exe.config
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.exe
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.pdb
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\PattersonUpload.xml
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Dicom.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Effects.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Utilities.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\obj\Debug\PattersonUploadVB.vbproj.CopyComplete
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.ImageProcessing.Core.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Bmp.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Cmp.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Fax.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.J2k.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Png.dll
+C:\Users\developer\Desktop\PattersonUploadVB\PattersonUploadVB\bin\Debug\Leadtools.Codecs.Tif.dll

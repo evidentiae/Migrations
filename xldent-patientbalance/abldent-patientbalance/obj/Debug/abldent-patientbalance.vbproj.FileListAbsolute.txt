@@ -1,0 +1,13 @@
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\bin\Debug\abldent-patientbalance.exe.config
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\bin\Debug\abldent-patientbalance.exe
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\bin\Debug\abldent-patientbalance.pdb
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\bin\Debug\abldent-patientbalance.xml
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.vbprojResolveAssemblyReference.cache
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.vbproj.ResolveComReference.cache
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent_patientbalance.Form1.resources
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent_patientbalance.Resources.resources
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.vbproj.GenerateResource.cache
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.vbproj.CoreCompileInputs.cache
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.exe
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.xml
+C:\Users\developer\documents\visual studio 2017\Projects\abldent-patientbalance\abldent-patientbalance\obj\Debug\abldent-patientbalance.pdb

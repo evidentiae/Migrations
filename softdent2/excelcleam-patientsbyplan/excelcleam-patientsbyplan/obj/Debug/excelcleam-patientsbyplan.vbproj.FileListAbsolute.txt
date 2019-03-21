@@ -1,0 +1,25 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.ResolveComReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam_patientsbyplan.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.pdb
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.exe.config
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.exe
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.pdb
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\bin\Debug\excelcleam-patientsbyplan.xml
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.ResolveComReference.cache
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam_patientsbyplan.Form1.resources
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam_patientsbyplan.Resources.resources
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.GenerateResource.cache
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.exe
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.xml
+C:\Users\developer\Source\Repos\migration\softdent2\excelcleam-patientsbyplan\excelcleam-patientsbyplan\obj\Debug\excelcleam-patientsbyplan.pdb

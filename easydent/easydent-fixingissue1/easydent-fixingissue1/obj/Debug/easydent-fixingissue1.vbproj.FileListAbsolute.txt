@@ -1,0 +1,13 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\bin\Debug\easydent-fixingissue1.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\bin\Debug\easydent-fixingissue1.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\bin\Debug\easydent-fixingissue1.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\bin\Debug\easydent-fixingissue1.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.vbproj.ResolveComReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent_fixingissue1.Form1.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent_fixingissue1.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\easydent-fixingissue1\easydent-fixingissue1\obj\Debug\easydent-fixingissue1.pdb

@@ -1,0 +1,13 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\bin\Debug\excelclean-insurancealphacompany.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\bin\Debug\excelclean-insurancealphacompany.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\bin\Debug\excelclean-insurancealphacompany.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\bin\Debug\excelclean-insurancealphacompany.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.vbproj.ResolveComReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean_insurancealphacompany.Form1.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean_insurancealphacompany.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-insurancealphacompany\excelclean-insurancealphacompany\obj\Debug\excelclean-insurancealphacompany.pdb

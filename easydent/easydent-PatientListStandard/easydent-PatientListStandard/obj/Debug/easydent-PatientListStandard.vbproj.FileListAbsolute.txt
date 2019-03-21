@@ -1,0 +1,13 @@
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\bin\Debug\easydent-PatientListStandard.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\bin\Debug\easydent-PatientListStandard.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\bin\Debug\easydent-PatientListStandard.pdb
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\bin\Debug\easydent-PatientListStandard.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.vbproj.ResolveComReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent_PatientListStandard.Form1.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent_PatientListStandard.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.vbproj.GenerateResource.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.vbproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-PatientListStandard\easydent-PatientListStandard\obj\Debug\easydent-PatientListStandard.pdb

@@ -1,0 +1,13 @@
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\bin\Debug\softdent-adacode2.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\bin\Debug\softdent-adacode2.exe
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\bin\Debug\softdent-adacode2.pdb
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\bin\Debug\softdent-adacode2.xml
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.vbproj.ResolveComReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent_adacode2.Form1.resources
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent_adacode2.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.vbproj.GenerateResource.cache
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.vbproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.exe
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.xml
+c:\users\developer\documents\visual studio 2017\Projects\softdent-adacode2\softdent-adacode2\obj\Debug\softdent-adacode2.pdb

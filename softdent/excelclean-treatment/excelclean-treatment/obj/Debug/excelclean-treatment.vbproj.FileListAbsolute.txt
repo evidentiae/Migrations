@@ -1,0 +1,13 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.vbprojResolveAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.vbproj.ResolveComReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean_treatment.Form1.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean_treatment.Resources.resources
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.vbproj.GenerateResource.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.vbproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\bin\Debug\excelclean-treatment.exe.config
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\bin\Debug\excelclean-treatment.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\bin\Debug\excelclean-treatment.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\bin\Debug\excelclean-treatment.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.exe
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\excelclean-treatment\excelclean-treatment\obj\Debug\excelclean-treatment.pdb

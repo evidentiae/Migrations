@@ -1,0 +1,13 @@
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\bin\Debug\easydent-patient-addressState.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\bin\Debug\easydent-patient-addressState.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\bin\Debug\easydent-patient-addressState.pdb
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\bin\Debug\easydent-patient-addressState.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.vbproj.ResolveComReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent_patient_addressState.Form1.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent_patient_addressState.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.vbproj.GenerateResource.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.vbproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.exe
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.xml
+c:\users\developer\documents\visual studio 2017\Projects\easydent-patient-addressState\easydent-patient-addressState\obj\Debug\easydent-patient-addressState.pdb
